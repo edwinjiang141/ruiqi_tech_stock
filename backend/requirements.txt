@@ -1,0 +1,14 @@
+fastapi
+uvicorn==0.47.0
+sqlalchemy
+psycopg
+alembic
+pydantic
+pydantic-settings
+pandas
+numpy
+tushare
+apscheduler
+python-dotenv
+pytest
+httpx
